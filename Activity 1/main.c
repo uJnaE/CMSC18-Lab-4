@@ -1,11 +1,11 @@
 /*
 	Clent Japhet Poledo
 	2020-08317
-	“Upon my honor, I have accomplished this laboratory exercise relying upon my own honest efforts without cheating.”
+	ï¿½Upon my honor, I have accomplished this laboratory exercise relying upon my own honest efforts without cheating.ï¿½
 */
 #include <stdio.h>
 #include <stdlib.h>
-
+     
 int a,b;
 
 int main() {
